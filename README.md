@@ -49,11 +49,11 @@
 ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) 
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) 
 
-# OTHER TOOLS & TECHNOLOGIES
+
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AdithyanMS175&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=AdithyanMS175&theme=dark&hide_border=false&include_all_commits=false&count_private=true) &nbsp&nbsp&nbsp&nbsp&nbsp
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AdithyanMS175&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdithyanMS175&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
