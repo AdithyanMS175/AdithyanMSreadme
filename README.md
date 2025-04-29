@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻i'm a Full Stack MERN Developer<br>👨‍🎓I'm a Student at St Mary's College Thurithply<br>
+👨‍💻i'm a MERN Stack Developer<br>👨‍🎓Fresh Graduate From St Mary's College of Commerce and Management Studies Thurithply<br>
 
 
 ## 🌐 Socials:
@@ -69,4 +69,4 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 </div>
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
