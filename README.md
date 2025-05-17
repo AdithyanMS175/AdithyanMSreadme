@@ -3,7 +3,8 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/sa_m_ae_l?utm_source=qr&igsh=ZHBxOWtwc2QzMDR1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/adithyan-suresh-bb56b829a) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/sa_m_ae_l?utm_source=qr&igsh=ZHBxOWtwc2QzMDR1)[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adithyan-suresh-bb56b829a)
+
 <div align="center">
 # 💻 Tech Stack:
 
