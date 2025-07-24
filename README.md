@@ -1,11 +1,7 @@
 # 💫 About Me:
 👨‍💻i'm a MERN Stack Developer<br>👨‍🎓Fresh Graduate From St Mary's College of Commerce and Management Studies Thurithply<br>
 
-<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;PHP+%26+SQL+Enthusiast;AI+Explorer;Full+Stack+Engineer)](https://git.io/typing-svg)
-
-</div>
 
 
 
